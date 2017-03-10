@@ -1,0 +1,8 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.idea/
+google_appengine/lib/argparse/argparse.pyc
+google_appengine/lib/simplejson/simplejson/__init__.pyc
+google_appengine/lib/simplejson/simplejson/decoder.pyc
+google_appengine/lib/simplejson/simplejson/encoder.pyc
+google_appengine/lib/simplejson/simplejson/scanner.pyc
